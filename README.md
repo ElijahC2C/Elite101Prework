@@ -1,5 +1,18 @@
-# Elite101Prework
-this is a test for an untitled string
-# This is a title
-1. this is a list
-2. Test list
+Text Format	Sample Output
+# Introduction
+
+
+This is a repository created by Elijah
+
+
+## Usage
+
+
+Run this command to execute the application:
+
+
+`python filename.py`
+
+ 
+
+```
